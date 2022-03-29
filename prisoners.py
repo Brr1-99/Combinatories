@@ -42,4 +42,4 @@ def main(n):
 	total = format(percentage, '.2f')
 	print(f'The percentage of surviving is: {total} % \n{posibilities-result} favorable cases out of {posibilities} total cases.')
 
-main(8)
+main(10)
