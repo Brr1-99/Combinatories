@@ -1,6 +1,7 @@
 import math
 import itertools
 
+
 def loop_idx(arr, idx):
 	# Given a value of the array it searchs for the size of the loop
 	# The loop ends if the value is equal to the index
